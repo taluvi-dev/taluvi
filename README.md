@@ -1,5 +1,4 @@
 # taluvi
-
 We build creative tools for music and video production. Learn more at [taluvi.com](https://www.taluvi.com/).
 
 ## Plinken 
@@ -10,10 +9,10 @@ A high-performance collaboration platform for video/3d and audio content creatio
 ### Features
 
 - **Production Studio — Video, audio, and MIDI on one timeline. Sync with your DAW**
-- **PRemote Recording — Capture audio and video together, from anywhere**
-- **PCollaborative Editing — Shared spaces, shared assets, real-time sync**
-- **PPublish & Broadcast — Write, release, and go live — all from one space**
-- **PAI Creative Partner — Generate video, music, voice, foley, images, lyrics, and script — right inside your project**
+- **Remote Recording — Capture audio and video together, from anywhere**
+- **Collaborative Editing — Shared spaces, shared assets, real-time sync**
+- **Publish & Broadcast — Write, release, and go live — all from one space**
+- **AI Creative Partner — Generate video, music, voice, foley, images, lyrics, and script — right inside your project**
 
 ### System Requirements
 
